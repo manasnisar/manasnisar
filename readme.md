@@ -16,7 +16,7 @@ I am a Full Stack Engineer with over 4 years of experience specializing in E-com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=flat-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/-MySQL-EBD6D2?style=flat-badge&logo=mysql)
 
 
 ### Frontend :
@@ -32,10 +32,10 @@ I am a Full Stack Engineer with over 4 years of experience specializing in E-com
 ![SCSS](https://img.shields.io/badge/-MySQL-black?style=flat-badge&logo=mysql)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-badge&logo=styled-components&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-badge&logo=SASS&logoColor=white)
-![RTL](https://img.shields.io/badge/testing%20library-323330?style=flat-badge&logo=testing-library&logoColor=red)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-badge&logo=cypress&logoColor=058a5e)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-badge&logo=webpack&logoColor=black)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-badge&logo=web3.js&logoColor=white)
+![RTL](https://img.shields.io/badge/Testing%20Library-323330?style=flat-badge&logo=testing-library&logoColor=red)
+![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat-badge&logo=cypress&logoColor=058a5e)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=flat-badge&logo=webpack&logoColor=black)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-badge&logo=web3.js&logoColor=white)
 
 
 ### Backend :
