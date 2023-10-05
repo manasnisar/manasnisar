@@ -55,8 +55,8 @@ I am Anas Nisar, I've been working full time remote since over an year now. I'm 
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kishan-Dhakan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishan-Dhakan&theme=tokyonight" />
+  <img width="49%" height="205px" src="https://github-readme-stats.vercel.app/api?username=manasnisar&show_icons=true&theme=tokyonight" />
+  <img width="49%" height="205px" src="https://github-readme-streak-stats.herokuapp.com/?user=manasnisar&theme=tokyonight" />
 </p>
 
 <br>
