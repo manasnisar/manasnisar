@@ -2,21 +2,20 @@
 
 I am Anas Nisar, I've been working full time remote since over an year now. I'm experienced in tech ranging from Virtual Studio Technology (VSTs) to Blockchain Systems. I am always looking for innovative/disruptive tech and new challenges. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-KishanDhakan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishan-dhakan-228bb5167/)](https://www.linkedin.com/in/kishan-dhakan-228bb5167/)
-[![Gmail Badge](https://img.shields.io/badge/-Kishandhakan17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kishandhakan17@gmail.com)](mailto:kishandhakan17@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AnasNisar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-anas-nisar/)](https://www.linkedin.com/in/m-anas-nisar/)
+[![Gmail Badge](https://img.shields.io/badge/-anasnisar980@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nasnisar980@gmail.com)](mailto:nasnisar980@gmail.com)
 
-[![Kishan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kishan-Dhakan&theme=xcode)](https://github.com/Kishan-Dhakan)
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=go)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Rust](https://img.shields.io/badge/-Rust-00599C?style=flat-square&logo=rust)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
 ### Libraries & Framework :
