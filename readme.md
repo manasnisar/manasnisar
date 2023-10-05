@@ -14,7 +14,7 @@ I am Anas Nisar, I've been working full time remote since over an year now. I'm 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=go)
+![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
@@ -39,43 +39,44 @@ I am Anas Nisar, I've been working full time remote since over an year now. I'm 
 
 ### Backend :
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
+[![GORM](https://img.shields.io/badge/-GORM-563D7C?style=flat-square&logo=gorm)](https://gorm.io/)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
+![CircleCI](https://img.shields.io/badge/Circle%20CI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
 
 
-### Libraries & Framework :
+### Tools / Techniques:
 
-[![testify](https://img.shields.io/badge/-testify-green?style=flat-square&logo=testify)](https://github.com/stretchr/testify)
-[![gorm](https://img.shields.io/badge/-gorm-563D7C?style=flat-square&logo=gorm)](https://gorm.io/)
-[![Qt](https://img.shields.io/badge/-Qt-black?style=flat-square&logo=Qt)](https://www.qt.io/)
-
-### Tools:
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a> 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=fflat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=fflat-square&logo=swagger&logoColor=white)
+[![RESTApi](https://img.shields.io/badge/-RESTApi-563D7C?style=flat-square&logo=rest)](https://gorm.io/)
+[![Microservices](https://img.shields.io/badge/-Microservices-5ec3c2?style=flat-square&logo=gorm)](https://gorm.io/)
+[![Agile](https://img.shields.io/badge/-Agile-f73cab?style=flat-square&logo=gorm)](https://gorm.io/)
+[![ResponsiveDesign](https://img.shields.io/badge/-ResponsiveDesign-6edcb7?style=flat-square&logo=gorm)](https://gorm.io/)
+[![UnitTesting](https://img.shields.io/badge/-UnitTesting-a752c2?style=flat-square&logo=gorm)](https://gorm.io/)
+[![DevOps](https://img.shields.io/badge/-DevOps-24c845?style=flat-square&logo=gorm)](https://gorm.io/)
+[![TDD](https://img.shields.io/badge/-TDD-f22f65?style=flat-square&logo=gorm)](https://gorm.io/)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=fflat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=fflat-square&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=fflat-square&logo=slack&logoColor=white)
 
 ## 📈 Stats
 
