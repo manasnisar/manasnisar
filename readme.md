@@ -47,15 +47,44 @@ Architecture direction · Technical standards · Mentoring · Delivery planning 
 
 ### AI & agent tooling
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Agent Development Kit" />
-  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" alt="Retrieval-Augmented Generation" />
-  <img src="https://img.shields.io/badge/Vector_Stores-7C3AED?style=flat-square" alt="Vector stores" />
-  <img src="https://img.shields.io/badge/Agent_Guardrails-DC2626?style=flat-square" alt="Agent guardrails" />
-  <img src="https://img.shields.io/badge/Tool_Calling-2563EB?style=flat-square" alt="Tool calling" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons/langchain.svg?color=%231C3C3C" width="42" height="42" alt="LangChain icon" /><br />
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons/langgraph.svg?color=%231C3C3C" width="42" height="42" alt="LangGraph icon" /><br />
+      <sub><b>LangGraph</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/logos/google-icon.svg" width="42" height="42" alt="Google icon" /><br />
+      <sub><b>Google ADK</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/database-search-outline.svg?color=%236D28D9" width="42" height="42" alt="Retrieval icon" /><br />
+      <sub><b>RAG</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/database-outline.svg?color=%237C3AED" width="42" height="42" alt="Vector database icon" /><br />
+      <sub><b>Vector Stores</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/shield-check-outline.svg?color=%23DC2626" width="42" height="42" alt="Guardrails icon" /><br />
+      <sub><b>Agent Guardrails</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/function-variant.svg?color=%232563EB" width="42" height="42" alt="Function calling icon" /><br />
+      <sub><b>Tool Calling</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/account-group-outline.svg?color=%230F766E" width="42" height="42" alt="Multi-agent systems icon" /><br />
+      <sub><b>Multi-Agent Systems</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### Languages & backend
 
