@@ -33,11 +33,7 @@ Today, I lead engineering for a family-safety AI product—shaping architecture,
 
 ### AI systems
 
-LLM applications · LangChain · Agent orchestration · Multi-agent systems · Guardrails · RAG · Vector stores · Context grounding · Tool/function calling · Prompt engineering
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="32" alt="LangChain" />
-</p>
+LLM applications · Agent orchestration · Multi-agent systems · Guardrails · RAG · Vector stores · Context grounding · Tool/function calling · Prompt engineering
 
 ### Backend & platforms
 
@@ -48,6 +44,18 @@ Distributed services · REST and GraphQL APIs · gRPC · Microservices · Event-
 Architecture direction · Technical standards · Mentoring · Delivery planning · Cross-functional collaboration · CI/CD · Test strategy · Production reliability
 
 ## Technology stack
+
+### AI & agent tooling
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Agent Development Kit" />
+  <img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/Vector_Stores-7C3AED?style=flat-square" alt="Vector stores" />
+  <img src="https://img.shields.io/badge/Agent_Guardrails-DC2626?style=flat-square" alt="Agent guardrails" />
+  <img src="https://img.shields.io/badge/Tool_Calling-2563EB?style=flat-square" alt="Tool calling" />
+</p>
 
 ### Languages & backend
 
@@ -62,6 +70,13 @@ Architecture direction · Technical standards · Mentoring · Delivery planning 
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" height="48" alt="DynamoDB" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Data pipelines" />
+  <img src="https://img.shields.io/badge/ETL-0F766E?style=flat-square" alt="Extract, transform, and load pipelines" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
+</p>
+
 ### Frontend
 
 <p>
@@ -72,6 +87,7 @@ Architecture direction · Technical standards · Mentoring · Delivery planning 
 
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,terraform,nginx,githubactions,git" alt="Google Cloud, Docker, Kubernetes, Terraform, Nginx, GitHub Actions, and Git" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" height="48" alt="CircleCI" />
 </p>
 
 ### Testing
@@ -90,10 +106,3 @@ Skipify              Software Engineer            2021 - 2022
 Sectem Technologies  Junior Software Engineer     2020 - 2021
 Fiverr               Web Developer                2019
 ```
-
-## GitHub activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manasnisar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Anas Nisar's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=manasnisar&theme=tokyonight&hide_border=true" alt="Anas Nisar's GitHub contribution streak" />
-</p>
